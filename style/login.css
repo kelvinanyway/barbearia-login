@@ -1,0 +1,22 @@
+html{
+    background-color: white;
+}
+.criando-site{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+div{
+    display: grid;
+}
+input[type="text" i] {
+    padding-block: 4px;
+    padding-inline: 39px;
+}
+.container {    
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+
+}
+
